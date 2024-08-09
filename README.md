@@ -24,15 +24,15 @@ The main objectives of this analysis were to:
 
 ### 1. Bike Purchases by Gender
 - **Method**: Created a pivot table to aggregate the number of bike purchases by gender.
-- **Visualization**: A bar chart was used to visualize the difference in bike purchases between male and female customers.
+- **Visualization**: A Column chart was used to visualize the difference in bike purchases between male and female customers and average income.
 
 ### 2. Bike Purchases by Age Group
 - **Method**: Used nested `IF` functions to categorize customers into age groups, and then created a pivot table to analyze bike purchases by these groups.
-- **Visualization**: A pie chart was used to show the distribution of bike purchases across different age groups.
+- **Visualization**: A smooth line chart was used to show the distribution of bike purchases across different age groups.
 
 ### 3. Bike Purchases by Commute Distance
 - **Method**: Analyzed the relationship between commute distance and bike purchases using a pivot table.
-- **Visualization**: A column chart was used to represent the number of bike purchases for various commute distances.
+- **Visualization**: A line chart was used to represent the number of bike purchases for various commute distances.
 
 ## Conclusion
 
